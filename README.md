@@ -47,8 +47,9 @@ blank line separating the summary from the body is critical (unless
 you omit the body entirely); various tools like `log`, `shortlog`
 and `rebase` can get confused if you run the two together.
 
-Explain the problem that this commit is solving. Focus on why you
-are making this change as opposed to how (the code explains that).
+Explain the problem that this commit is solving. **Focus on why you 
+are making this change as opposed to how.**
+
 Are there side effects or other unintuitive consequenses of this
 change? Here’s the place to explain them.
 
